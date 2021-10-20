@@ -1,9 +1,10 @@
--  (❁´◡`❁) Hii, I'm ANANT SHINDE from Pune , India.
+-  Hii, I'm ANANT SHINDE from Pune , India.
+
 Software Engineer
 
 About Me💬
 
-🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
+Currently I'm learning Software Development at BridgeLabz.
 
 I'm liberal , 
 
