@@ -2,7 +2,7 @@
 Software Engineer
 About Me💬
 🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
-I'm liberal  Attractive🧲, Cool🆒😎, Foodie🍕🍒🍌🍩, Dancer🕺🕺⚡, Cook👨‍🍳🍽️
+I'm liberal  Attractive🧲, Coo😎, Foodi, Dancer🕺🕺⚡, Cook
 ⚙️Technologies & Tools :-
    Java7VM      mysql  shellscript  Microsoft-Office-icon
 
