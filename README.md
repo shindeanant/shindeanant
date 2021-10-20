@@ -8,7 +8,7 @@ About Me💬
 I'm liberal  Attractive🧲, Coo😎, Foodi, Dancer🕺🕺⚡, Cook
 
 ⚙️Technologies & Tools :-
-   Java7VM      mysql  shellscript  Microsoft-Office-icon
+   Java,      mysql , shellscript.
    
 
 📫 Connect with me :-
