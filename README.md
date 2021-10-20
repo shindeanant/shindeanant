@@ -5,13 +5,13 @@ About Me💬
 
 🌱🎇✨✨Currently I'm learning Software Development at BridgeLabz.
 
-I'm liberal  Attractive🧲, Coo😎, Foodi, Dancer🕺🕺⚡, Cook
+I'm liberal , 
 
 ⚙️Technologies & Tools :-
-   Java,      mysql , shellscript.
+   Java,  mysql , shellscript.
    
 
 📫 Connect with me :-
-facebook    iiiinstagram    github     linkedin
+facebook | github | linkedin
 
 
