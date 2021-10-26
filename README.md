@@ -2,15 +2,15 @@
 
 Software Engineer
 
-About Me💬
+About Me:-
 
 Currently I'm learning Software Development at BridgeLabz. 
 
-⚙️Technologies & Tools :-
+Technologies & Tools :-
    Java,  mysql , shellscript.
    
 
-📫 Connect with me :-
+ Connect with me :-
 facebook | github | linkedin
 
 
