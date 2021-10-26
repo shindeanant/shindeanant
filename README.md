@@ -14,4 +14,4 @@ Technologies & Tools :-
 facebook | github | linkedin
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?shindeanant&themeradical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?shindeanant&theme=radical)
