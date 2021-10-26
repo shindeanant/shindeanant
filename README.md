@@ -6,12 +6,4 @@ About Me:-
 
 Currently I'm learning Software Development at BridgeLabz. 
 
-Technologies & Tools :-
-   Java,  mysql , shellscript.
-   
-
- Connect with me :-
-facebook | github | linkedin
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?shindeanant&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindeanant)](https://github.com/anuraghazra/github-readme-stats)
