@@ -1,6 +1,6 @@
 -  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anant</h1>
 <h3 align="center">Currently I'm learning Software Development at BridgeLabz.</h3>
 
 
@@ -55,7 +55,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/feed/r/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/ 
+anant-shinde-54a862190
+/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
