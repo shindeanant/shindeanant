@@ -4,9 +4,7 @@ Software Engineer
 
 About Me💬
 
-Currently I'm learning Software Development at BridgeLabz.
-
-I'm liberal , 
+Currently I'm learning Software Development at BridgeLabz. 
 
 ⚙️Technologies & Tools :-
    Java,  mysql , shellscript.
